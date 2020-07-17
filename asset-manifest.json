@@ -1,0 +1,34 @@
+{
+  "files": {
+    "main.css": "/SatishConcultantApp/static/css/main.02b5fe49.chunk.css",
+    "main.js": "/SatishConcultantApp/static/js/main.33d66833.chunk.js",
+    "main.js.map": "/SatishConcultantApp/static/js/main.33d66833.chunk.js.map",
+    "runtime-main.js": "/SatishConcultantApp/static/js/runtime-main.794b8712.js",
+    "runtime-main.js.map": "/SatishConcultantApp/static/js/runtime-main.794b8712.js.map",
+    "static/css/2.75c4ecca.chunk.css": "/SatishConcultantApp/static/css/2.75c4ecca.chunk.css",
+    "static/js/2.d375f490.chunk.js": "/SatishConcultantApp/static/js/2.d375f490.chunk.js",
+    "static/js/2.d375f490.chunk.js.map": "/SatishConcultantApp/static/js/2.d375f490.chunk.js.map",
+    "index.html": "/SatishConcultantApp/index.html",
+    "precache-manifest.d8735e969c9127658c6326d935f10707.js": "/SatishConcultantApp/precache-manifest.d8735e969c9127658c6326d935f10707.js",
+    "service-worker.js": "/SatishConcultantApp/service-worker.js",
+    "static/css/2.75c4ecca.chunk.css.map": "/SatishConcultantApp/static/css/2.75c4ecca.chunk.css.map",
+    "static/css/main.02b5fe49.chunk.css.map": "/SatishConcultantApp/static/css/main.02b5fe49.chunk.css.map",
+    "static/js/2.d375f490.chunk.js.LICENSE.txt": "/SatishConcultantApp/static/js/2.d375f490.chunk.js.LICENSE.txt",
+    "static/media/android.jpg": "/SatishConcultantApp/static/media/android.25da2303.jpg",
+    "static/media/app.jpg": "/SatishConcultantApp/static/media/app.f1849094.jpg",
+    "static/media/digital.jpg": "/SatishConcultantApp/static/media/digital.67bad01c.jpg",
+    "static/media/logo1.png": "/SatishConcultantApp/static/media/logo1.951e429f.png",
+    "static/media/logo2.png": "/SatishConcultantApp/static/media/logo2.d6a929f1.png",
+    "static/media/marketing.jpg": "/SatishConcultantApp/static/media/marketing.561a8f51.jpg",
+    "static/media/service.jpg": "/SatishConcultantApp/static/media/service.2ffedeeb.jpg",
+    "static/media/soft.jpg": "/SatishConcultantApp/static/media/soft.c222e8eb.jpg",
+    "static/media/web.jpg": "/SatishConcultantApp/static/media/web.547379c7.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.794b8712.js",
+    "static/css/2.75c4ecca.chunk.css",
+    "static/js/2.d375f490.chunk.js",
+    "static/css/main.02b5fe49.chunk.css",
+    "static/js/main.33d66833.chunk.js"
+  ]
+}
